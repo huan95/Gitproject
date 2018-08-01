@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>chuyen doi tien te</title>
+
+</head>
+<body>
+<input type="text" id = "numb1">
+<button type="button" onclick = "convert()">convert</button>
+<p id = "demo"></p>
+<p>From Currency</p>
+<select name = "" id = "">
+    <option value="">Viet Nam</option>
+    <option value="">USA</option>
+</select>
+<p>To Currency</p>
+<select> name = "" id = "">
+<option value="">Viet Nam</option>
+<option value="">USA</option>
+</select>
+<script>
+    function convert() {
+        var a = parseInt(document.getElementById("numb1").value);
+        b = a/23000;
+        document.getElementById("demo").innerHTML = b;
+    }
+</script>
+</body>
+</html>

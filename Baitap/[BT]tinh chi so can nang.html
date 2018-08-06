@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chi so BMI</title>
+</head>
+<body>
+<script>
+    var weight = parseFloat(prompt("chi so can nang"));
+    var height = parseFloat(prompt("chi so chieu cao"));
+    var x = "chi so BMI";
+    x = (weight)/(height*height);
+    if (x < 18){
+        alert("nguoi gay");
+    } else if (x < 25){
+        alert("nguoi binh thuong");
+    } else if (x < 30){
+        alert("nguoi thua can");
+    } else {
+        alert("nguoi beo phi");
+    }
+</script>
+</body>
+</html>

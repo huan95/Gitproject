@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<p>
+    <label>Feet</label>
+    <input id="Feet" type="number" placeholder="Feet" oninput="lengthConverter(this.value)" onchange="lengthConverter(this.value)" >
+    <label>Meet</label>
+    <input id="Meet" type="number" placeholder="Meet" oninput="lengthConverter1(this.value)" onchange="lengthConverter1(this.value)" >
+</p>
+<p>Meet:<span id="outputMeet"></span></p>
+<p>Feet:<span id="outputFeet"></span></p>
+<script>
+    function lengthConverter(valnum) {
+        valnum = parseFloat(valnum);
+        document.getElementById("outputMeet").innerHTML = 0.305 * valnum;
+    }
+    function lengthConverter1(valnum) {
+        valnum = parseFloat(valnum);
+        document.getElementById("outputFeet").innerHTML = 3.279 * valnum;
+    }
+
+</script>
+</body>
+</html>

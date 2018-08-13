@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TH</title>
+</head>
+<body>
+<script>
+    //
+    <!--đổi tên biến-->
+    // function calculate(firstOperand, secondOperand, operater) {
+    //     switch (operater) {
+    //         case '+':
+    //             return firstOperand + secondOperand;
+    //         case '-':
+    //             return firstOperand - secondOperand;
+    //         case '*':
+    //             return firstOperand * secondOperand;
+    //         case '/':
+    //             if (secondOperand != 0)
+    //                 return firstOperand / secondOperand;
+    //             else
+    //                 throw "Can not divide by 0";
+    //         default:
+    //             throw "Unsupported operation";
+    //     }
+    // }
+    //
+    // module.exports = calculate;
+    //
+    // //    tách hằng
+    //
+    //     const ADDITION = '+';
+    //     const SUBTRACTION = '-';
+    //     const MULTIPLICATION = '*';
+    //     const DIVISION = '/';
+    //     function calculate(firstOperand, secondOperand, operater) {
+    //         switch (operater) {
+    //             case 'ADDITION':
+    //                 return firstOperand + secondOperand;
+    //             case 'SUBTRACTION':
+    //                 return firstOperand - secondOperand;
+    //             case 'MULTIPLICATION':
+    //                 return firstOperand * secondOperand;
+    //             case 'DIVISION':
+    //                 if (secondOperand != 0)
+    //                     return firstOperand / secondOperand;
+    //                 else
+    //                     throw "Can not divide by 0";
+    //             default:
+    //                 throw "Unsupported operation";
+    //         }
+    //     }
+    //
+    //     module.exports = calculate;
+
+
+    'use strict';
+    var expect = require('chai').expect;
+    var assert = require('chai').assert;
+    var calculate = require('../calculator');
+
+    describe('Calculator', function () {
+        it('Addition: 1 + 1 = 2', function () {
+            var firstOperand = 1;
+            var secondOperand = 1;
+            var operater = '+';
+            var expected = 2;
+
+            var result = calculate(firstOperand, secondOperand, operater);
+
+            expect(result).to.equal(expected);
+        });
+
+        it('Subtraction: 2 - 1 = 1', function () {
+            var firstOperand = 2;
+            var secondOperand = 1;
+            var operater = '-';
+            var expected = 1;
+
+            var result = calculate(firstOperand, secondOperand, operater);
+
+            expect(result).to.equal(expected);
+        });
+
+        it('Multiplication: 2 * 2 = 4', function () {
+            var firstOperand = 2;
+            var secondOperand = 2;
+            var operater = '*';
+            var expected = 4;
+
+            var result = calculate(firstOperand, secondOperand, operater);
+
+            expect(result).to.equal(expected);
+        });
+
+        it('Division: 6 / 3 = 2', function () {
+            var firstOperand = 6;
+            var secondOperand = 3;
+            var operater = '/';
+            var expected = 2;
+
+            var result = calculate(firstOperand, secondOperand, operater);
+
+            expect(result).to.equal(expected);
+        });
+
+        it('= is a wrong operator', function () {
+            var firstOperand = 2;
+            var secondOperand = 0;
+            var operater = '=';
+            var expected = 4;
+            assert.throws(function () {
+                calculate(firstOperand, secondOperand, operater);
+            }, "Unsupported operation");
+        });
+    });
+
+</script>
+
+</body>
+</html>

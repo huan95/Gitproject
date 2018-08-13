@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<h3>New Product</h3>
+<input type="text" id="Add name" placeholder="New Product">
+<input type="submit" value="Add">
+<h3>Display New Product</h3>
+<table>
+    <tbody>
+    <tr>
+        <th style="text-align: left;">Product Name</th>
+        <th style="text-align: right; color:brown" colspan="2"><p id="counter">5 products</p></th>
+    </tr>
+    </tbody>
+    <tbody id="products">
+    <tr>
+        <td>Sony Xperia</td>
+        <td>
+            <button onclick="app.edit(0)">Edit</button>
+        </td>
+        <td>
+            <button onclick="app.delete(0)">Delete</button>
+        </td>
+    </tr>
+    <tr>
+        <td>Samsung Galaxy</td>
+        <td>
+            <button onclick="app.edit(1)">Edit</button>
+        </td>
+        <td>
+            <button onclick="app.delete(1)">Delete</button>
+        </td>
+    </tr>
+    <tr>
+        <td>Nokia 6</td>
+        <td>
+            <button onclick="app.edit(2)">Edit</button>
+        </td>
+        <td>
+            <button onclick="app.delete(2)">Delete</button>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Apple iPhone 6S</td>
+        <td>
+            <button onclick="app.edit(3)">Edit</button>
+        </td>
+        <td>
+            <button onclick="app.delete(3)">Delete</button>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Apple iPhone 8 Plus</td>
+        <td>
+            <button onclick="app.edit(4)">Edit</button>
+        </td>
+        <td>
+            <button onclick="app.delete(4)">Delete</button>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

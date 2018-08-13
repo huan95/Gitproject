@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f05b98-9ead-4e08-aa92-c6731a442cee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Baitap/[BT]Hàm kiểm tra số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[BT]Luyện tập mảng 01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[BT]Tic tac toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[BT]chuyển đổi feet và meet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Tao thao ta voi mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Tìm giá trị lớn nhất trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Tìm giá trị trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Tạo bàn cờ caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Từ điển.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]chuyển đổi  nhiệt độ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]tìm giá trị min của mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]tạo và gọi hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/[TH]Đảo ngược các phần tử trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1] Viết hàm tính bình phương một số bất kỳ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[2] Tính diện tích, chu vi hình tròn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[3]tính giai thừa của một số nguyên bất kỳ được đưa vào.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[4]kiểm tra xem ký tự nhập vào có phải là ký tự số không.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[5]Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[6]Viết hàm nhận vào một ký tự trong bảng chữ cái [a-z][A-Z], kiểm tra xem nếu ký tự đưa vào có phải là nguyên âm không. Nếu là nguyên âm trả về true, ngược lại trả về false..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[7]Viết hàm truyền vào 2 số nguyên bất ký, thực hiện đổi chỗ hai số nguyên đó..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[8] Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[9]Viết hàm truyền vào một mảng ký tự, và một ký tự bất kỳ, kiểm tra xem ký tự bất kỳ đó có nằm trong mảng không. Nếu có trả về số lần xuất hiện của ký tự đó, nếu không trả về -1..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[BT] Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[BT] Ứng dụng quản lý sản phẩm sử dụng hàm/quản lý sp sủ dụng hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Clean Code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Clean Code/[TH] Refactoring - tách biến.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Clean Code/[TH] Refactoring - đổi tên biến và tách hằng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Clean Code/[TH]Refactoring - tách phương thức.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/BT8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/BT8.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="392071865">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4806" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4806" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[9]Viết hàm truyền vào một mảng ký tự, và một ký tự bất kỳ, kiểm tra xem ký tự bất kỳ đó có nằm trong mảng không. Nếu có trả về số lần xuất hiện của ký tự đó, nếu không trả về -1..html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/[BT] Viết hàm tính bình phương một số bất kỳ.html" />
+        <option value="$PROJECT_DIR$/[BT] Tính diện tích, chu vi hình tròn.html" />
+        <option value="$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 3.html" />
+        <option value="$PROJECT_DIR$/[BT]tính giai thừa của một số nguyên bất kỳ được đưa vào.html" />
+        <option value="$PROJECT_DIR$/[BT]Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất..html" />
+        <option value="$PROJECT_DIR$/[BT]Viết hàm nhận vào một ký tự trong bảng chữ cái [a-z][A-Z], kiểm tra xem nếu ký tự đưa vào có phải là nguyên âm không. Nếu là nguyên âm trả về true, ngược lại trả về false..html" />
+        <option value="$PROJECT_DIR$/[BT]kiểm tra xem ký tự nhập vào có phải là ký tự số không.html" />
+        <option value="$PROJECT_DIR$/[BT]Viết hàm truyền vào 2 số nguyên bất ký, thực hiện đổi chỗ hai số nguyên đó..html" />
+        <option value="$PROJECT_DIR$/[BT] Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó..html" />
+        <option value="$PROJECT_DIR$/[5]Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất..html" />
+        <option value="$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 8.html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/[4]kiểm tra xem ký tự nhập vào có phải là ký tự số không.html" />
+        <option value="$PROJECT_DIR$/[6]Viết hàm nhận vào một ký tự trong bảng chữ cái [a-z][A-Z], kiểm tra xem nếu ký tự đưa vào có phải là nguyên âm không. Nếu là nguyên âm trả về true, ngược lại trả về false..html" />
+        <option value="$PROJECT_DIR$/[8] Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó..html" />
+        <option value="$PROJECT_DIR$/[7]Viết hàm truyền vào 2 số nguyên bất ký, thực hiện đổi chỗ hai số nguyên đó..html" />
+        <option value="$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 9.html" />
+        <option value="$PROJECT_DIR$/[9]Viết hàm truyền vào một mảng ký tự, và một ký tự bất kỳ, kiểm tra xem ký tự bất kỳ đó có nằm trong mảng không. Nếu có trả về số lần xuất hiện của ký tự đó, nếu không trả về -1..html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="688" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="[BT] Luyện tập tạo và sử dụng hàm 02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[BT] Luyện tập tạo và sử dụng hàm 02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/000 Gitproject/[BT] Luyện tập tạo và sử dụng hàm 02/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 6.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f05b98-9ead-4e08-aa92-c6731a442cee" name="Default Changelist" comment="" />
+      <created>1533870575459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533870575459</updated>
+      <workItem from="1533870577509" duration="5760000" />
+      <workItem from="1533964201840" duration="594000" />
+      <workItem from="1533975737090" duration="13961000" />
+      <workItem from="1534043147431" duration="5625000" />
+      <workItem from="1534057096016" duration="4411000" />
+      <workItem from="1534086966000" duration="2219000" />
+      <workItem from="1534090145737" duration="35000" />
+      <workItem from="1534090629254" duration="1144000" />
+      <workItem from="1534130423957" duration="16000" />
+      <workItem from="1534134483345" duration="301000" />
+      <workItem from="1534141661597" duration="18000" />
+      <workItem from="1534147590554" duration="6680000" />
+      <workItem from="1534154738715" duration="1562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42326000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 3.html" />
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 4.html" />
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 6.html" />
+    <entry file="file://D:/000 lương sơn project/Project thu vien anh/1 project anh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="116" column="38" lean-forward="true" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 7.html" />
+    <entry file="file://$PROJECT_DIR$/[3]tính giai thừa của một số nguyên bất kỳ được đưa vào.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 5.html" />
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 8.html" />
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/[5]Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[4]kiểm tra xem ký tự nhập vào có phải là ký tự số không.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[2] Tính diện tích, chu vi hình tròn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Luyện tập tạo và sử dụng hàm 02 bài 9.html" />
+    <entry file="file://$PROJECT_DIR$/[8] Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[7]Viết hàm truyền vào 2 số nguyên bất ký, thực hiện đổi chỗ hai số nguyên đó..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1] Viết hàm tính bình phương một số bất kỳ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[6]Viết hàm nhận vào một ký tự trong bảng chữ cái [a-z][A-Z], kiểm tra xem nếu ký tự đưa vào có phải là nguyên âm không. Nếu là nguyên âm trả về true, ngược lại trả về false..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[9]Viết hàm truyền vào một mảng ký tự, và một ký tự bất kỳ, kiểm tra xem ký tự bất kỳ đó có nằm trong mảng không. Nếu có trả về số lần xuất hiện của ký tự đó, nếu không trả về -1..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

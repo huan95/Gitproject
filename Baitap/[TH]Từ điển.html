@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ điển</title>
+</head>
+<body>
+<input type="text" id="input">
+<button type="submit" id="btnT"  onclick="search()" value="btnT">Search</button>
+<script>
+    var arrayX = ["banana","apple","orange"];
+    var arrayY = ["chuoi","tao","cam"];
+    function search() {
+        Z = document.getElementById("input").value;
+        for (i = 0; i < arrayX.length; i++){
+            if (Z === arrayX[i]){
+                alert("nghia cua tu" + Z + "la" + arrayY[i]);
+            }
+        }
+    }
+
+</script>
+</body>
+</html>

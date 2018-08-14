@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TH</title>
+</head>
+<body>
+<script>
+    var MyDate = function (day, month, year) {
+        this.getDay = function () {
+            return day;
+        }
+        this.getMonth = function () {
+            return month;
+        }
+        this.getYear = function () {
+            return year;
+        }
+        this.setDay = function (day_new) {
+            day = day_new;
+        }
+        this.setMonth = function (month_new) {
+            month = month_new;
+        }
+        this.setYear = function (year_new) {
+            year = year_new;
+        }
+        this.display = function () {
+            document.write("day" + this.getDay() + "month" + this.getMonth() + "year" + this.getYear());
+        }
+    }
+
+    function main() {
+        var date = new MyDate(2, 2, 2007);
+        date.display();
+        var day1 = date.getDay();
+        day1.display();
+        var month1 = date.getMonth();
+        month1.display();
+        var year1 = date.getYear();
+        year1.display();
+
+
+
+
+    }
+
+    main()
+</script>
+</body>
+</html>

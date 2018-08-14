@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<script>
+    var temperature = function (oC) {
+        this.getConverseF = function () {
+            degressF = (9 * oC + 160) / 5;
+            return degressF;
+        }
+        this.getConverseK = function () {
+            degressK = (oC + 273);
+            return degressK;
+        }
+        this.display = function () {
+            document.write("degress F" + this.getConverseF() + "<br>");
+            document.write("degress K" + this.getConverseK());
+        }
+    }
+    function main() {
+        var C = new temperature(25);
+        C.display();
+
+    }
+    main();
+</script>
+
+</body>
+</html>

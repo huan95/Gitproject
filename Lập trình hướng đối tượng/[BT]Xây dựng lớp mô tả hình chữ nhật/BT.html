@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<script>
+    var rectangle = function (width, height) {
+        this.getArea = function () {
+            return width * height;
+        }
+        this.getPerimeter = function () {
+            return (width + height) * 2;
+        }
+        this.display = function () {
+            document.write("Area" + this.getArea() + "<br>");
+            document.write("Perimeter" + this.getPerimeter());
+        }
+    }
+
+    function main() {
+        for (var i = 1; i <= 3; i++) {
+            for (var j = 1; j <= 7; j++) {
+                console.log("#");
+            }
+
+        }
+        var rec1 = new rectangle(3, 7);
+        console.log("rec1");
+        rec1.display();
+    }
+
+    main();
+
+</script>
+
+</body>
+</html>

@@ -2,31 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbd832c-61b2-4035-b6ab-f6cee7477303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[BT]Hàm kiểm tra số nguyên tố.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT]Luyện tập mảng 01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT]Tic tac toe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT]chuyển đổi feet và meet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT]ứng dụng sản phẩm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Tao thao ta voi mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Tìm giá trị lớn nhất trong mảng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Tìm giá trị trong mảng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Tạo bàn cờ caro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Từ điển.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]chuyển đổi  nhiệt độ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]tìm giá trị min của mảng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]tạo và gọi hàm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH]Đảo ngược các phần tử trong mảng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[1] Viết hàm tính bình phương một số bất kỳ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[2] Tính diện tích, chu vi hình tròn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[3]tính giai thừa của một số nguyên bất kỳ được đưa vào.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[4]kiểm tra xem ký tự nhập vào có phải là ký tự số không.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[5]Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[6]Viết hàm nhận vào một ký tự trong bảng chữ cái [a-z][A-Z], kiểm tra xem nếu ký tự đưa vào có phải là nguyên âm không. Nếu là nguyên âm trả về true, ngược lại trả về false..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[7]Viết hàm truyền vào 2 số nguyên bất ký, thực hiện đổi chỗ hai số nguyên đó..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/[8] Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Xây dựng lớp hình tròn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Xây dựng lớp hình tròn/[BT]Xây dựng lớp mô tả hình chữ nhật.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Xây dựng lớp hình tròn/[TH]Xây dựng lớp Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[TH] Xây dựng lớp hình tròn/[TH]Xây dựng lớp hình tròn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT8.html" beforeDir="false" afterPath="$PROJECT_DIR$/BT8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[BT]Luyện tập mảng 01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[BT]Tic tac toe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Tao thao ta voi mang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Tìm giá trị lớn nhất trong mảng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Tìm giá trị trong mảng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Tạo bàn cờ caro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Từ điển.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]tạo và gọi hàm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TH]Đảo ngược các phần tử trong mảng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[BT] Luyện tập tạo và sử dụng hàm 02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +31,8 @@
     <session id="196319608">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -64,21 +54,21 @@
           <entry key="project.open.time.60" value="2" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="[BT]Do you love me" value="1" />
           <entry key="css" value="1" />
-          <entry key="html" value="228" />
+          <entry key="html" value="230" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="166" />
+          <entry key="HTML" value="168" />
           <entry key="Scratch" value="64" />
         </counts>
       </usages-collector>
@@ -100,10 +90,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/[TH]Đảo ngược các phần tử trong mảng.html">
+        <entry file="file://$PROJECT_DIR$/[BT]Luyen tap vong lap 02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -182,7 +172,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="688" />
@@ -291,11 +281,13 @@
       <workItem from="1534045484043" duration="107000" />
       <workItem from="1534065111958" duration="12000" />
       <workItem from="1534088473822" duration="34000" />
+      <workItem from="1534235681514" duration="625000" />
+      <workItem from="1534237044981" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159643000" />
+    <option name="totallyTimeSpent" value="160348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,7 +299,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21858735" />
@@ -451,48 +443,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Tao thao ta voi mang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Tìm giá trị trong mảng.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Từ điển.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Tạo bàn cờ caro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[BT]Tic tac toe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[BT]ứng dụng sản phẩm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/[TH]Tao thao ta voi mang.html" />
+    <entry file="file://$PROJECT_DIR$/[TH]Tìm giá trị trong mảng.html" />
+    <entry file="file://$PROJECT_DIR$/[TH]Từ điển.html" />
+    <entry file="file://$PROJECT_DIR$/[TH]Tạo bàn cờ caro.html" />
+    <entry file="file://$PROJECT_DIR$/[BT]Tic tac toe.html" />
+    <entry file="file://$PROJECT_DIR$/[BT]ứng dụng sản phẩm.html" />
     <entry file="file://$PROJECT_DIR$/BT7.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -510,13 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]tạo và gọi hàm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/[TH]tạo và gọi hàm.html" />
     <entry file="file://$PROJECT_DIR$/[TH]chuyển đổi  nhiệt độ.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -559,13 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Tìm giá trị lớn nhất trong mảng.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/[TH]Tìm giá trị lớn nhất trong mảng.html" />
     <entry file="file://$PROJECT_DIR$/[TH]tìm giá trị min của mảng.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -601,27 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[BT]Luyen tap vong lap 02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[BT]Luyện tập mảng 01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[TH] luyen vong lap 01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="45" lean-forward="true" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/[BT]Luyện tập mảng 01.html" />
     <entry file="file://$PROJECT_DIR$/[TH] Vong lap long nhau.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -629,10 +553,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[TH]Đảo ngược các phần tử trong mảng.html">
+    <entry file="file://$PROJECT_DIR$/[TH]Đảo ngược các phần tử trong mảng.html" />
+    <entry file="file://$PROJECT_DIR$/[TH] luyen vong lap 01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="559">
+          <caret line="72" column="45" lean-forward="true" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[BT]Luyen tap vong lap 02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>

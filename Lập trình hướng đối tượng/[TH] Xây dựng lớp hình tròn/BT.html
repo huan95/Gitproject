@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TH</title>
+
+</head>
+<body>
+<script>
+    var circle = function (radius) {
+        this.getRadius = function () {
+            return radius;
+        }
+        this.getArea = function () {
+            return Math.PI * radius * radius;
+        }
+        this.display = function () {
+            alert("Radius:" + this.getRadius() + "Area:" + this.getArea());
+
+        }
+    }
+
+    function main() {
+        var cir1 = new circle(2);
+        cir1.display();
+        var rad = cir1.getRadius();
+        rad.display();
+        var area = cir1.getArea();
+        area.display();
+    }
+
+    main();
+
+</script>
+
+</body>
+</html>

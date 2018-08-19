@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var Rat = function (nameRat, weightRat, speedRat) {
+
+        this.nameRat = nameRat;
+        this.weightRat = weightRat;
+        this.speedRat = speedRat;
+
+
+        this.soudingRat = function () {
+            alert("chit chit");
+
+        };
+
+        this.status = function () {
+            if (this.weightRat > 0) {
+                alert("alive");
+            } else {
+                alert("die");
+            }
+
+        };
+
+        this.getSpeedRat = function () {
+            return this.speedRat;
+
+        };
+
+        this.setSpeedRat = function (_speedRat) {
+            this.speedRat = _speedRat;
+
+        };
+
+        this.getWeightRat = function () {
+            return this.weightRat;
+
+        };
+
+        this.setWeightRat = function (_weightRat) {
+            this.weightRat = _weightRat;
+
+        };
+        this.decreaseWeightRat = function () {
+            this.weightRat -= this.weightRat;
+
+        }
+
+    };
+
+    var Cat = function (nameCat, weightCat, speedCat) {
+
+        this.nameCat = nameCat;
+        this.weightCat = weightCat;
+        this.speedCat = speedCat;
+        this.rat = null;
+
+        this.soudingCat = function () {
+            alert("meo meo");
+
+        };
+
+        this.getWeightCat = function () {
+            return this.weightCat;
+
+        };
+
+        this.setWeightCat = function (_weightCat) {
+            this.weightCat = _weightCat;
+
+        };
+
+        this.getSpeedCat = function () {
+            return this.speedCat;
+
+        };
+
+        this.setSpeedCat = function (_speedCat) {
+            this.speedCat = _speedCat;
+
+        };
+
+        this.catchRat = function () {
+            if (this.speedCat > this.rat.getSpeedRat()) {
+                alert("catch rat");
+            } else {
+                alert("cannot catch rat");
+            }
+
+        };
+
+        this.eatRat = function () {
+            alert("eat rat ");
+            this.weightCat = this.rat.getWeightRat() + this.weightCat;
+           alert("weight cat :" + this.weightCat);
+           alert("rat die");
+
+        };
+
+        this.setRat = function (_rat) {
+            this.rat = _rat;
+
+        }
+
+    };
+
+
+    var rat1 = new Rat("jerry", 5, 10);
+
+
+    function use() {
+        rat1.soudingRat();
+
+    }
+
+    function use1() {
+        rat1.status();
+
+    }
+
+    var cat1 = new Cat("tom", 20, 30);
+    cat1.setRat(rat1);
+
+    function use2() {
+        cat1.soudingCat();
+
+    }
+
+    function use3() {
+        cat1.catchRat();
+
+    }
+
+    function use4() {
+        cat1.eatRat();
+
+    }
+
+
+
+
+</script>
+<button type="button" onclick="use()">souding rat</button>
+<button type="button" onclick="use1()">status</button>
+<br><br>
+<button type="button" onclick="use2()">souding cat</button>
+<button type="button" onclick="use3()">catch rat</button>
+<button type="button" onclick="use4()">eat rat</button>
+</body>
+</html>

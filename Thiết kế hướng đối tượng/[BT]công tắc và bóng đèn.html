@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<script>
+    var SwitchButton = function () {
+
+        this.status = false;
+        this.lamp = null;
+
+        this.connectToLamp = function () {
+            if (this.status = true) {
+                alert("connected");
+            } else {
+                alert("disconnect");
+            }
+
+        };
+
+        this.swithchedOn = function () {
+            if(this.status == true);
+            alert("light on");
+
+        };
+
+
+        this.switchedOff = function () {
+            this.status = false;
+            alert("light off");
+
+        }
+
+    };
+    var ElectricLamp = function () {
+        this.status = false;
+
+        this.turnOn = function () {
+            if(this.status == true);
+            alert("light");
+
+
+        };
+
+        this.turnOff = function () {
+            this.status = false;
+            alert("light off");
+
+
+        }
+
+    };
+
+    var switchButton1 = new SwitchButton(10);
+
+    function use() {
+        switchButton1.swithchedOn();
+
+    }
+
+    function use1() {
+        switchButton1.switchedOff();
+
+    }
+
+    var electricLamp1 = new ElectricLamp(true);
+
+
+</script>
+<button type="button" onclick="use()">on</button>
+<button type="button" onclick="use1()">off</button>
+
+</body>
+</html>

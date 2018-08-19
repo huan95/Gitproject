@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TH</title>
+</head>
+<body>
+<script>
+    var Battery = function (energy) {
+
+        this.energy = energy;
+
+        this.getEnery = function () {
+            return energy
+
+        };
+
+        this.setEnery = function (new_energy) {
+            energy = new_energy
+
+        };
+        this.decreaseEnery = function () {
+            energy = energy - 1
+            
+        };
+        
+    };
+    var FlashLamp = function () {
+        this.status = false;
+        this.battery = null;
+
+        this.getBattery = function () {
+            return this.battery;
+
+        };
+        this.setBattery = function (new_battery) {
+            this.battery = new_battery;
+
+        };
+        this.light = function () {
+            if(this.status)
+                console.log("den sang");
+            alert("den sang" + this.battery.getEnery() + "%")
+
+        };
+        this.turnOn = function () {
+            if(this.battery.getEnery() > 0){
+                this.status = true;
+                this.light();
+                this.battery.decreaseEnery()
+            } else {
+                alert("het pin" );
+            }
+        };
+        this.turnOff = function () {
+            this.status = false;
+            console.log("tat den");
+            alert("den tat")
+
+        };
+    };
+    var battery1 = new Battery(100);
+
+    var flashLamp = new FlashLamp();
+    flashLamp.setBattery(battery1);
+    function uses() {
+        flashLamp.turnOn();
+    }
+    function uses1() {
+        flashLamp.turnOff()
+
+    }
+</script>
+<button type="button" onclick="uses()">on</button>
+<button type="button" onclick="uses1()">off</button>
+
+</body>
+</html>

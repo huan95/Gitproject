@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BT</title>
+</head>
+<body>
+<button type="button" onclick="mobileStatus()">bật máy</button><br><br>
+<button type="button" onclick="charge()">sacpin</button><br><br>
+<button type="button" onclick="editor()">soantin</button><br><br>
+<button type="button" onclick="incoming()">tinnhanden</button><br><br>
+<button type="button" onclick="sent()">guitinnhan</button><br><br>
+<button type="button" onclick="inbox()">hopthuden</button><br><br>
+<button type="button" onclick="outbox()">hopthudi</button>
+<script>
+    function Mobile(battery, texteditor, incomingmessenger, sentmessenger) {
+
+        this.battery = battery;
+        this.texteditor = texteditor;
+        this.incomingmessenger = incomingmessenger;
+        this.sentmessenger = sentmessenger;
+        //kiểm tra bật tắt
+        this.mobileStatus = function () {
+            if (battery > 0) {
+                alert("turn on");
+            } else {
+                alert("turn off")
+            }
+
+        };
+        //kiểm tra pin
+        this.charge = function () {
+            if ("battery == 100") {
+                alert("battery is full");
+                console.log("pin duoc" + battery + "%");
+                battery--
+
+            }
+        };
+        //nhập văn bản
+        this.editor = function () {
+            mes = prompt("texting");
+            alert("sent messenger");
+            battery--;
+            console.log("pin con" + battery)
+
+        };
+        //tin nhắn đến
+        this.incoming = function () {
+            alert("incoming messenger");
+            battery--;
+            console.log("pin con" + battery)
+
+        };
+        //gửi tin nhắn
+        this.sent = function () {
+            mess = prompt("sent");
+            alert("sent messenger");
+            battery--;
+            console.log("pin con" + battery)
+
+        };
+        //xem hộp thư đến
+        this.inbox = function () {
+            alert("incoming messenger");
+            battery--;
+            console.log("pin con" + battery)
+
+        };
+        //xem hộp thư đi
+        this.outbox = function () {
+            alert("outbox");
+            battery--;
+            console.log("pin con" + battery)
+
+        };
+    }
+
+    var mobile = new Mobile(100, 100, 100, 100);
+
+    function mobileStatus() {
+        mobile.mobileStatus()
+
+    }
+
+    function charge() {
+        mobile.charge();
+
+    }
+
+    function editor() {
+        mobile.editor();
+
+    }
+
+    function incoming() {
+        mobile.incoming();
+
+    }
+
+    function sent() {
+        mobile.sent();
+
+    }
+
+    function inbox() {
+        mobile.inbox();
+
+    }
+
+    function outbox() {
+        mobile.outbox();
+
+    }
+
+
+</script>
+
+</body>
+</html>

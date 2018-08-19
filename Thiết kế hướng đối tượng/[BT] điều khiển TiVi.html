@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var Remote = function () {
+
+
+        this.Remote = function () {
+            prompt("change channel");
+            return this.channel;
+
+        };
+
+        this.getRemote = function () {
+            return this.channel;
+
+        };
+
+        this.setRemote= function (_change) {
+            this.channel = _change;
+
+        };
+
+    };
+
+    var Tivi = function (channel, volume) {
+
+        this.status = false;
+        this.volumeTivi = volume;
+        this.channelTivi = channel;
+        this.remote = null;
+
+
+        this.turnOn = function () {
+            this.status = true;
+            alert("tivi is on");
+
+        };
+
+        this.turnOff = function () {
+            this.status = false;
+            alert("tivi is off");
+
+        };
+
+        this.getVolume = function () {
+            return this.volumeTivi;
+
+        };
+
+        this.setVolume = function (_volume) {
+            this.volumeTivi = _volume;
+
+        };
+
+        this.volumeUp = function () {
+            this.volumeTivi += 2;
+            alert("volume tivi :" + this.volumeTivi);
+
+        };
+
+        this.volumeDown = function () {
+            this.volumeTivi -= 2;
+            alert("volume tivi :" + this.volumeTivi);
+        };
+
+        this.getChannel = function () {
+            return this.channelTivi;
+
+        };
+
+        this.setChannel = function (_channel) {
+            this.channelTivi = _channel;
+
+        };
+
+
+        this.up = function () {
+            this.channelTivi += 1;
+            alert("channle is :" + this.channelTivi);
+
+        };
+
+        this.down = function () {
+            this.channelTivi -= 1;
+            alert("channel is :" + this.channelTivi);
+
+        };
+
+    };
+
+
+    var remote1 = new Remote();
+
+    function usetv8() {
+        remote1.Remote()
+
+    }
+
+
+    var tivi1 = new Tivi(5,20);
+    tivi1.setRemote(remote1);
+
+
+    function usetv() {
+        tivi1.turnOn();
+
+    }
+
+    function usetv1() {
+        tivi1.turnOff();
+
+    }
+
+    function usetv2() {
+        alert(tivi1.getVolume());
+
+    }
+
+    function usetv3() {
+        tivi1.volumeUp();
+
+    }
+
+    function usetv4() {
+        tivi1.volumeDown();
+
+    }
+
+    function usetv5() {
+        alert(tivi1.getChannel());
+
+    }
+
+    function usetv6() {
+        tivi1.up();
+
+    }
+
+    function usetv7() {
+        tivi1.down();
+
+    }
+
+</script>
+<button type="button" onclick="usetv()">on</button>
+<button type="button" onclick="usetv1()">off</button>
+<br><br>
+<button type="button" onclick="usetv2()">volume</button>
+<button type="button" onclick="usetv3()">+</button>
+<button type="button" onclick="usetv4()">-</button>
+<br><br>
+<button type="button" onclick="usetv5()">channel</button>
+<button type="button" onclick="usetv6()">up</button>
+<button type="button" onclick="usetv7()">down</button>
+<br><br>
+<button type="button" onclick="usetv8()">Remote</button>
+
+
+</body>
+</html>

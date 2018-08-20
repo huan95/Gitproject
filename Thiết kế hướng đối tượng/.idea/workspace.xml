@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49d869df-a363-49c7-9145-130ace53eb44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lập trình hướng đối tượng/[BT] Xây dựng mô tả lớp điện thoại.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT] Phát triển ứng dụng nhỏ mô phỏng câu chuyện Adam và Eva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT] mèo bắt chuột và ăn chuột..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT] điều khiển TiVi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[BT]công tắc và bóng đèn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng của đèn pin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap/[TH]chuyển đổi  nhiệt độ.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lập trình hướng đối tượng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lập trình hướng đối tượng/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngoại lệ (Exception)/Bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngoại lệ (Exception)/Bài 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[BT] Game đơn giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/[BT] Game đơn giản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng sự hoạt động của đèn pin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[BT] điều khiển TiVi.html" beforeDir="false" afterPath="$PROJECT_DIR$/[BT] điều khiển TiVi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[BT]công tắc và bóng đèn.html" beforeDir="false" afterPath="$PROJECT_DIR$/[BT]công tắc và bóng đèn.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,36 +21,37 @@
     <session id="-1387629977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="111" />
+          <entry key="html" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="111" />
+          <entry key="HTML" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="18544" />
+          <entry key="html" value="19100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="18544" />
+          <entry key="HTML" value="19100" />
         </counts>
       </usages-collector>
     </session>
@@ -70,17 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/[BT] điều khiển TiVi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="149" column="51" lean-forward="true" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[BT] mèo bắt chuột và ăn chuột..html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="758">
-              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+            <state relative-caret-position="272">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -105,9 +90,9 @@
         <option value="$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng sự hoạt động của đèn pin.html" />
         <option value="$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng của đèn pin.html" />
         <option value="$PROJECT_DIR$/[BT] Phát triển ứng dụng nhỏ mô phỏng câu chuyện Adam và Eva.html" />
-        <option value="$PROJECT_DIR$/[BT]công tắc và bóng đèn.html" />
-        <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/[BT] mèo bắt chuột và ăn chuột..html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/[BT]công tắc và bóng đèn.html" />
         <option value="$PROJECT_DIR$/[BT] điều khiển TiVi.html" />
       </list>
     </option>
@@ -148,7 +133,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/000 Gitproject/Thiết kế hướng đối tượng/1.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lập trình hướng đối tượng" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ngoại lệ (Exception)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -197,11 +182,12 @@
       <workItem from="1534495511403" duration="7857000" />
       <workItem from="1534566815050" duration="20825000" />
       <workItem from="1534650488790" duration="25719000" />
+      <workItem from="1534727374014" duration="7886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94429000" />
+    <option name="totallyTimeSpent" value="102315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -235,34 +221,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2.html" />
     <entry file="file://$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng sự hoạt động của đèn pin.html" />
-    <entry file="file://$PROJECT_DIR$/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[BT] Game đơn giản.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng của đèn pin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[BT]công tắc và bóng đèn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -273,17 +235,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/[TH] Xây dựng lớp mô phỏng của đèn pin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[BT]công tắc và bóng đèn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/[BT] mèo bắt chuột và ăn chuột..html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+        <state relative-caret-position="-126">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[BT] điều khiển TiVi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="149" column="51" lean-forward="true" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>

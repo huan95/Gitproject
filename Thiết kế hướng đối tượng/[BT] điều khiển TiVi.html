@@ -8,20 +8,19 @@
 <script>
     var Remote = function () {
 
-
-        this.Remote = function () {
+        this.control = function () {
             prompt("change channel");
-            return this.channel;
+            return this.control;
 
         };
 
-        this.getRemote = function () {
-            return this.channel;
+        this.getControl = function () {
+            return this.control;
 
         };
 
-        this.setRemote= function (_change) {
-            this.channel = _change;
+        this.setControl= function (_control) {
+            this.control = _control;
 
         };
 
@@ -33,7 +32,6 @@
         this.volumeTivi = volume;
         this.channelTivi = channel;
         this.remote = null;
-
 
         this.turnOn = function () {
             this.status = true;
@@ -78,6 +76,12 @@
 
         };
 
+        this.channel = function () {
+           this.channelTivi = this.remote.getControl();
+            return this.channelTivi;
+
+        };
+
 
         this.up = function () {
             this.channelTivi += 1;
@@ -91,17 +95,15 @@
 
         };
 
+        this.setRemote = function (_remote) {
+            this.remote = _remote;
+
+        };
+
     };
 
 
     var remote1 = new Remote();
-
-    function usetv8() {
-        remote1.Remote()
-
-    }
-
-
     var tivi1 = new Tivi(5,20);
     tivi1.setRemote(remote1);
 
@@ -145,6 +147,13 @@
         tivi1.down();
 
     }
+
+    function usetv8() {
+        remote1.control();
+
+    }
+
+
 
 </script>
 <button type="button" onclick="usetv()">on</button>

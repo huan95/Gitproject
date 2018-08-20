@@ -12,7 +12,7 @@
         this.lamp = null;
 
         this.connectToLamp = function () {
-            if (this.status = true) {
+            if (this.status == true) {
                 alert("connected");
             } else {
                 alert("disconnect");
@@ -21,7 +21,7 @@
         };
 
         this.swithchedOn = function () {
-            if(this.status == true);
+            this.status = true;
             alert("light on");
 
         };
@@ -31,14 +31,14 @@
             this.status = false;
             alert("light off");
 
-        }
+        };
 
     };
     var ElectricLamp = function () {
         this.status = false;
 
         this.turnOn = function () {
-            if(this.status == true);
+            this.status = true;
             alert("light");
 
 
@@ -48,29 +48,36 @@
             this.status = false;
             alert("light off");
 
-
-        }
+        };
 
     };
 
-    var switchButton1 = new SwitchButton(10);
+    var switchButton1 = new SwitchButton();
+    var electricLamp1 = new ElectricLamp();
+    electricLamp1.connectToLamp(switchButton1);
 
     function use() {
-        switchButton1.swithchedOn();
+        switchButton1.swithchedOn()
 
     }
 
     function use1() {
-        switchButton1.switchedOff();
+        switchButton1.switchedOff()
+
+    }
+    function use2() {
+        switchButton1.connectToLamp();
+
 
     }
 
-    var electricLamp1 = new ElectricLamp(true);
+
+
 
 
 </script>
 <button type="button" onclick="use()">on</button>
 <button type="button" onclick="use1()">off</button>
-
+<button type="button" onclick="use2()">connect to lamp</button>
 </body>
 </html>
